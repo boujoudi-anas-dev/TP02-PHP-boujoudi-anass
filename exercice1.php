@@ -18,6 +18,7 @@
     //un commentaire en php une ligne //
     /* un commentaire en php sur plusieurs lignes */
     <p><?= "je commence mon aprentissage php . " ?></p>
+    
 
     <p><a href="index.php">accueil</a></p>
 </body>
