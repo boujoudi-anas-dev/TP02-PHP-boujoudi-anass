@@ -58,5 +58,7 @@
         echo "Compteur : $compteur <br>";
     }
     ?>
+    <p><a href="index.php">accueil</a></p>
+    
 </body>
 </html>

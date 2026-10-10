@@ -25,5 +25,8 @@ if ($moyenne < 0 || $moyenne >20 )
 
     else
         {echo " tres bien";}
+    ?>
+
+    <p><a href="index.php">accueil</a></p>
 </body>
 </html>

@@ -71,6 +71,10 @@ echo " [] tableau vide :";
 var_dump($valeur4);
 
 echo "</pre>";
+?>
+<p><a href="index.php">accueil</a></p>
+
+
 
 </body>
 </html>

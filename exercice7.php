@@ -30,10 +30,9 @@ for ($i = 1; $i <= 10; $i++)
         {
             echo "*";
         }
-        echo "<\n>";
-       }
-
+        echo "<\n>";}
        ?>
-       <
+<p><a href="index.php">accueil</a></p>
+
 </body>
 </html>

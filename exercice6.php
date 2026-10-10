@@ -51,5 +51,8 @@ switch ($numeroMois) {
     default:
         echo " numéro de mois invalide";
 }
+?>
+<p><a href="index.php">accueil</a></p>
+
 </body>
 </html>
