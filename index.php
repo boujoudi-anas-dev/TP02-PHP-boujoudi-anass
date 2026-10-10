@@ -18,7 +18,7 @@
         <li> <a href ="exercice9.php">exercice 9 </a></li>
         <li><a href ="exercice10.php">exercice 10 </a></li>
 
-</ol>
+    </ol>
 
 
 
