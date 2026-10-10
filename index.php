@@ -7,7 +7,7 @@
 </head>
 <body>
     <ol>
-        <li><a href ="exercice1.php">exercice 1 </a></li> 
+        <li><a href ="exercice1.php">ex01  </a></li> 
         <li><a href ="exercice2.php">exercice 2 </a></li>
         <li><a href ="exercice3.php">exercice 3 </a></li>
         <li> <a href ="exercice4.php">exercice 4 </a></li>
