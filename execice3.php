@@ -1,4 +1,3 @@
-```php
 <?php
 
 $notes = [
@@ -73,9 +72,8 @@ $moyenne = $somme / count($notes);
     <p>Nombre d'étudiants ayant validé : <?= $nbValides ?></p>
     <p>Meilleur étudiant : <?= $meilleurEtudiant ?></p>
     <p>Meilleure note : <?= $meilleureNote ?></p>
-    
+
     <p><a href="index.php">accueil</a></p>
 
 </body>
 </html>
-```
