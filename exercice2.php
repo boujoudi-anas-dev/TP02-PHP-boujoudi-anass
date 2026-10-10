@@ -20,8 +20,7 @@
     echo "<p> Note 2: $note2 </p>";
     ?>
     <?php>
-    echo "<p> la moyenne de mes notes est : " . ($note1 + $note2) / 2 . "</p>";
-     <p><a href="index.php">accueil</a></p>  
+    echo "<p> la moyenne de mes notes est : " . ($note1 + $note2) / 2 . "</p>";  
     ?> 
 
     <p><a href="index.php">accueil</a></p>  
